@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Anna Littler",
+    "age": 28,
+    "partner": {
+      "name": "Phoebe Talbot",
+      "age": 28
+    }
+  },
+  {
+    "name": "Phoebe Talbot",
+    "age": 28,
+    "partner": {
+      "name": "Anna Littler",
+      "age": 28
+    }
+  },
+  {
+    "name": "Claire Matthews",
+    "age": 34,
+    "partner": {
+      "name": "Ralph Matthews",
+      "age": 36
+    }
+  },
+  {
+    "name": "Diana Littler",
+    "age": 63,
+    "partner": {
+      "name": "Paul Kirker",
+      "age": 72
+    }
+  }
+]
